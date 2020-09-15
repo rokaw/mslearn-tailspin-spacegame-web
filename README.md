@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/rokaw/Space%20Game%20-web%20-%20Pipeline/_apis/build/status/rokaw.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/rokaw/Space%20Game%20-web%20-%20Pipeline/_build/latest?definitionId=2&branchName=feature%2Fhome-page-text)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
